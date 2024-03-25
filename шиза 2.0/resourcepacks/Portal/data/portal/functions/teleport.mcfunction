@@ -1,0 +1,2 @@
+execute as @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:flint",Count:1b,tag:{CustomModelData:444444}}}] at @s run tp @e[tag=teleport] ^ ^ ^2
+execute as @e[tag=teleport] run tag @s remove teleport

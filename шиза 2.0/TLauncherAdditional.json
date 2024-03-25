@@ -1,0 +1,92 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "additionalFiles": [
+    {
+      "sha1": "045d6edac8fe1b004e159c49704b5b729f551079",
+      "size": 9118806,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+    },
+    {
+      "sha1": "bd96f726b89228b818f64e2edc635feda3fe2586",
+      "size": 11352644,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg-bd96f726b89228b818f64e2edc635feda3fe2586.jar"
+    },
+    {
+      "sha1": "4aef4168f94d97bc73bf510213b2518942f931d1",
+      "size": 8428369,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+    },
+    {
+      "sha1": "65b8836e582983fd770ddf1db68b07d58009bd0a",
+      "size": 4213746,
+      "path": "libraries/net/minecraftforge/forge/1.16.5-36.2.22/forge-1.16.5-36.2.22-client.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.16.5-36.2.22/forge-1.16.5-36.2.22-client.jar"
+    },
+    {
+      "sha1": "9fe20d651ee47764b4494fd96914554d3c08c723",
+      "size": 2480605,
+      "path": "libraries/net/minecraftforge/forge/1.16.5-36.2.22/forge-1.16.5-36.2.22-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.16.5-36.2.22/forge-1.16.5-36.2.22-universal.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -226130849343600,
+    "name": "шиза 2.0",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 10000020,
+          "name": "TL skin and cape",
+          "favorite": false,
+          "version": {
+            "id": 11001784,
+            "name": "1.17",
+            "metadata": {
+              "sha1": "2b8ece879ce18b789b32190a32ab26be9f688213",
+              "size": 450392,
+              "path": "mods/tl_skin_cape_forge_1.16.5-1.17.jar",
+              "url": "/mods/10000020/11001784/tl_skin_cape_forge_1.16.5-1.17.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [],
+      "gameVersionDTO": {
+        "id": 31,
+        "name": "1.16.5"
+      },
+      "minecraftVersionName": {
+        "id": 2993,
+        "name": "36.2.22"
+      },
+      "id": -226130849354301,
+      "name": "1.0",
+      "available": false
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false,
+    "parser": false,
+    "totalComments": 0
+  },
+  "source": "local_version_repo",
+  "jar": "1.16.5",
+  "skinVersion": true
+}

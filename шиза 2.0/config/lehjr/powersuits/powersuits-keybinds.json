@@ -1,0 +1,173 @@
+{
+  "formatVersion": 2,
+  "keybinding.minecraft.clock": {
+    "registryName": "minecraft:clock",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.minecraft.compass": {
+    "registryName": "minecraft:compass",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.aoe_pick_upgrade": {
+    "registryName": "powersuits:aoe_pick_upgrade",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.aqua_affinity": {
+    "registryName": "powersuits:aqua_affinity",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.auto_feeder": {
+    "registryName": "powersuits:auto_feeder",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.binoculars": {
+    "registryName": "powersuits:binoculars",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.climb_assist": {
+    "registryName": "powersuits:climb_assist",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.cooling_system": {
+    "registryName": "powersuits:cooling_system",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.energy_shield": {
+    "registryName": "powersuits:energy_shield",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.flight_control": {
+    "registryName": "powersuits:flight_control",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.fluid_tank": {
+    "registryName": "powersuits:fluid_tank",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.fortune": {
+    "registryName": "powersuits:fortune",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.generator_kinetic": {
+    "registryName": "powersuits:generator_kinetic",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.generator_solar": {
+    "registryName": "powersuits:generator_solar",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.generator_solar_adv": {
+    "registryName": "powersuits:generator_solar_adv",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.generator_thermal": {
+    "registryName": "powersuits:generator_thermal",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.glider": {
+    "registryName": "powersuits:glider",
+    "showOnHud": true,
+    "defaultKey": 93
+  },
+  "keybinding.powersuits.invisibility": {
+    "registryName": "powersuits:invisibility",
+    "showOnHud": true,
+    "defaultKey": 92
+  },
+  "keybinding.powersuits.jet_boots": {
+    "registryName": "powersuits:jet_boots",
+    "showOnHud": true,
+    "defaultKey": 91
+  },
+  "keybinding.powersuits.jetpack": {
+    "registryName": "powersuits:jetpack",
+    "showOnHud": true,
+    "defaultKey": 91
+  },
+  "keybinding.powersuits.jump_assist": {
+    "registryName": "powersuits:jump_assist",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.magnet": {
+    "registryName": "powersuits:magnet",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.mob_repulsor": {
+    "registryName": "powersuits:mob_repulsor",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.night_vision": {
+    "registryName": "powersuits:night_vision",
+    "showOnHud": true,
+    "defaultKey": 59
+  },
+  "keybinding.powersuits.parachute": {
+    "registryName": "powersuits:parachute",
+    "showOnHud": true,
+    "defaultKey": 39
+  },
+  "keybinding.powersuits.shock_absorber": {
+    "registryName": "powersuits:shock_absorber",
+    "showOnHud": true,
+    "defaultKey": 91
+  },
+  "keybinding.powersuits.silk_touch": {
+    "registryName": "powersuits:silk_touch",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.sprint_assist": {
+    "registryName": "powersuits:sprint_assist",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.swim_assist": {
+    "registryName": "powersuits:swim_assist",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.transparent_armor": {
+    "registryName": "powersuits:transparent_armor",
+    "showOnHud": true,
+    "defaultKey": 92
+  },
+  "keybinding.powersuits.vein_miner": {
+    "registryName": "powersuits:vein_miner",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.water_electrolyzer": {
+    "registryName": "powersuits:water_electrolyzer",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.tunnel_bore": {
+    "registryName": "powersuits:tunnel_bore",
+    "showOnHud": true,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.aoe_pick_upgrade2": {
+    "registryName": "powersuits:aoe_pick_upgrade2",
+    "showOnHud": true,
+    "defaultKey": -1
+  }
+}

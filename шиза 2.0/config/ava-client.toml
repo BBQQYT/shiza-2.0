@@ -1,0 +1,108 @@
+# 
+# 
+# 
+# 
+# 
+#Range: 1 ~ 3
+"Your preset choice" = 1
+# 
+# 
+# 
+#Preset 1
+"Primary Weapon 1 - 1" = "mp5k"
+"Primary Weapon 1 - 2" = "mp5k"
+"Secondary Weapon 1" = "p226"
+"Melee Weapon 1" = "field_knife"
+"Projectile 1 - 1" = "m18_grey"
+"Projectile 1 - 2" = "m116a1"
+"Projectile 1 - 3" = "m67"
+"Special Weapon 1" = "binocular"
+# 
+# 
+# 
+#Preset 2
+"Primary Weapon 2 - 1" = "mp5k"
+"Primary Weapon 2 - 2" = "mp5k"
+"Secondary Weapon 2" = "p226"
+"Melee Weapon 2" = "field_knife"
+"Projectile 2 - 1" = "m18_grey"
+"Projectile 2 - 2" = "m116a1"
+"Projectile 2 - 3" = "m67"
+"Special Weapon 2" = "binocular"
+# 
+# 
+# 
+#Preset 3
+"Primary Weapon 3 - 1" = "mp5k"
+"Primary Weapon 3 - 2" = "mp5k"
+"Secondary Weapon 3" = "p226"
+"Melee Weapon 3" = "field_knife"
+"Projectile 3 - 1" = "m18_grey"
+"Projectile 3 - 2" = "m116a1"
+"Projectile 3 - 3" = "m67"
+"Special Weapon 3" = "binocular"
+# 
+# 
+# 
+"Quick Swap" = false
+"Preset Hotkey" = false
+"Radio Hotkey" = true
+"Ping Hotkey" = true
+# 
+# 
+# 
+"Projectile Indicator" = true
+"Biosensor (Zombie)" = false
+# 
+# 
+# 
+"Display Kill Tip" = true
+# 
+# 
+# 
+"Use bullet hole effect" = true
+"Use blood effect" = true
+"Use bullet trail effect" = true
+# 
+# 
+# 
+"Use passive radio sound effects" = true
+# 
+# 
+# 
+#Range: 4.9E-324 ~ 1.7976931348623157E308
+"Test value, should not be changed" = 0.9900000095367432
+
+[ava]
+	#Should AI weapon models use fast assets
+	ai_fast_assets = true
+	#Should GUI weapon models use image assets
+	gui_fast_assets = true
+	#Fast or Fancy Assets (Fast -> Better Performance)
+	fast_assets = false
+
+	[ava.crosshair]
+
+		[ava.crosshair.config]
+			#Range: 0.0 ~ 1.0
+			red = 0.20000000298023224
+			#Range: 0.0 ~ 1.0
+			green = 1.0
+			#Range: 0.0 ~ 1.0
+			blue = 0.0
+			# 
+			# 
+			enable = true
+			#Range: 0.0 ~ 1.0
+			transparency = 1.0
+
+	[ava.fp_animation]
+
+		[ava.fp_animation.config]
+			enable_run = true
+			enable_jump = true
+			enable_bobbing = true
+			enable_fire = true
+			enable_reload = true
+			enable_draw = true
+

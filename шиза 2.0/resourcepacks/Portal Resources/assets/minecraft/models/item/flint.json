@@ -1,0 +1,15 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/flint"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 222222}, "model": "item/energy"},
+  { "predicate": {"custom_model_data": 333333}, "model": "item/portalblue"},
+  { "predicate": {"custom_model_data": 444444}, "model": "item/portalorange"}
+
+ ]
+
+ 
+}

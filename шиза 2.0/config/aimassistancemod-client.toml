@@ -1,0 +1,15 @@
+
+["Aim assistance"]
+	#If true, it will stop assisting once you're looking at a mob
+	stopWhenReached = false
+	#What should be the force of the aim assistance on mobs?
+	#Range: 0.1 ~ 10.0
+	aimForceMobs = 4.0
+	#What should be the force of the aim assistance on blocks?
+	#Range: 0.1 ~ 10.0
+	aimForceBlocks = 2.5
+	#Should the aim assistance be activated for mobs?
+	aimMobs = true
+	#Should the aim assistance be activated for blocks?
+	aimBlocks = true
+
